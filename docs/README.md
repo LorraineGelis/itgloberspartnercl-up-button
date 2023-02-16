@@ -2,7 +2,7 @@
 
 ## Información General:
 
-El presente repositorio contiene el componente custom _Diagramation Template_. Dicho componente fué implementado con **React** y **Typescript** para **Vtex IO**. Botón que nos ayudará cuando necesitemos deslizarnos a un nivel superior de nuestra página
+El presente repositorio contiene el componente custom _Up Button_. Dicho componente fué implementado con **React** y **Typescript** para **Vtex IO**. Botón que nos ayudará cuando necesitemos deslizarnos a un nivel superior de nuestra página
 
 ![Preview](../assets/img_upbutton.png)
 
